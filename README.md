@@ -1,5 +1,6 @@
-- 👋 Hi, I’m front-end developer, `Soojeong`.
-- 📫 Contact : sjk5689612@gmail.com
+👋 Hi, I’m front-end developer, `Soojeong`<br/>
+📫 Contact : sjk5689612@gmail.com
+
 
 ## 📚 My tech stack 
 <div display=flex>
