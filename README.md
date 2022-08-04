@@ -1,5 +1,6 @@
 👋 Hi, I’m front-end developer, `Soojeong`<br/>
-📫 Contact : sjk5689612@gmail.com
+📫 Contact : sjk5689612@gmail.com<br/>
+🖊 [Link to Blog](https://krystal-k.tistory.com/)
 
 
 ## 📚 My tech stack 
