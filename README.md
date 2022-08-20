@@ -1,6 +1,6 @@
-👋 Hi, I’m front-end developer, `Soojeong`<br/>
+👋 안녕하세요 :) 프론트엔드 개발자 김수정입니다!<br/>
 📫 Contact : sjk5689612@gmail.com<br/>
-🖊 [Link to Blog](https://krystal-k.tistory.com/)
+🖊 [블로그 보러가기](https://krystal-k.tistory.com/)
 
 
 ## 📚 My tech stack 
