@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 #### 🗺 여행코스 및 핫플레이스 공유 서비스 [야, 너도 갈래?]
 `야너갈`은 맵을 이용하여 인상 깊었던 여행코스, 일상에서 추천하고 싶었던 장소를 공유하는 플랫폼입니다.
 * [`야너갈` 모바일 사이트 바로가기](http://www.yaneogal.site)<br/>
-* [깃허브](https://github.com/hanghae99-final-6/FE/blob/master/README.md)<br/>
+* [깃허브 바로가기](https://github.com/hanghae99-final-6/FE/blob/master/README.md)<br/>
 * [설명 동영상 보러가기](https://youtu.be/mkBCHUKwP4Y)<br/>
 
 </div>
